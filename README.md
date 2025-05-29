@@ -29,7 +29,7 @@
 - **Student Leader** – Collaborated on hosting events and workshops 
 - **1K+ LinkedIn Followers** – Talk about technology,Cybersecurity,self development.  
 
----
+
 <!--
 ### 📂 Projects  
 | Project | Description | Tools |  
