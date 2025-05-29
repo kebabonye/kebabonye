@@ -29,7 +29,7 @@
 - **Student Leader** – Collaborated on hosting events and workshops 
 - **1K+ LinkedIn Followers** – Talk about technology,Cybersecurity,self development.  
 
-
+---
 <!--
 ### 📂 Projects  
 | Project | Description | Tools |  
@@ -37,7 +37,7 @@
 | **FinTech Data Analyzer** | Python script to visualize stock trends. | Python, Pandas, Matplotlib |  
 | **Secure Banking Portal** | Mock web app with SQLi safeguards. | Java, SQL, HTML/CSS |  
 
----
+
 -->
 
 ### 📫 Let’s Connect  
